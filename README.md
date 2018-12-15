@@ -9,7 +9,10 @@ git clone https://github.com/yunmoon/express-typescript-base.git
 ```
 
 #### 运行程序
-
+安装扩展包
+```bash
+npm i
+```
 开发模式
 ```bash
 npm run build:live
